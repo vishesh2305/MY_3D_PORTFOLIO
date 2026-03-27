@@ -32,7 +32,7 @@ const Contact = () => {
               Github <MdArrowOutward />
             </a>
             <a
-              href="https://www.linkedin.com/in/onlyvishesh/"
+              href="https://www.linkedin.com/in/vishesh2305/"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
